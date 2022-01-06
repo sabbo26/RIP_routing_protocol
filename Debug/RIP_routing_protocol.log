@@ -1,0 +1,10 @@
+﻿  routing_algo.cpp
+D:\CSED 22\7th term\networks\assignments\assignment 4\RIP_routing_protocol\node.h(110,27): warning C4018: '<': signed/unsigned mismatch
+D:\CSED 22\7th term\networks\assignments\assignment 4\RIP_routing_protocol\node.h(149,27): warning C4018: '<': signed/unsigned mismatch
+D:\CSED 22\7th term\networks\assignments\assignment 4\RIP_routing_protocol\node.h(156,27): warning C4018: '<': signed/unsigned mismatch
+D:\CSED 22\7th term\networks\assignments\assignment 4\RIP_routing_protocol\node.h(160,27): warning C4018: '<': signed/unsigned mismatch
+D:\CSED 22\7th term\networks\assignments\assignment 4\RIP_routing_protocol\routing_algo.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+D:\CSED 22\7th term\networks\assignments\assignment 4\RIP_routing_protocol\routing_algo.cpp(9,21): warning C4018: '<': signed/unsigned mismatch
+D:\CSED 22\7th term\networks\assignments\assignment 4\RIP_routing_protocol\routing_algo.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+D:\CSED 22\7th term\networks\assignments\assignment 4\RIP_routing_protocol\routing_algo.cpp(29,21): warning C4018: '<': signed/unsigned mismatch
+  RIP_routing_protocol.vcxproj -> D:\CSED 22\7th term\networks\assignments\assignment 4\RIP_routing_protocol\Debug\RIP_routing_protocol.exe
